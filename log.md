@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: February 2nd, 2017 
+
+**Today's Progress**: I was introduced to objects today.
+
+**Thoughts:** Initially the object constructor notation was confusing. But I got the syntax down.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/827371030423408641
+
 ### Day 4: February 1st, 2017 
 
 **Today's Progress**: I made another game with Javascript and learned a lot about switch.
