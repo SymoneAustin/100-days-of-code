@@ -1,13 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 4: February 1st, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I made another game with Javascript and learned a lot about switch.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The concept of switch is pretty easy to understand.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/827021520996298752
+
+### Day 3: January 31st, 2017 
+
+**Today's Progress**: I learned about control flow.
+
+**Thoughts:** Still with the Javascript.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/826650689615101955
 
 ### Day 2: January 30th, 2017 
 
