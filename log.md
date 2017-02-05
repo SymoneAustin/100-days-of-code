@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: February 4th, 2017 
+
+**Today's Progress**: I confinued to work on object constructor nontation.
+
+**Thoughts:** I was frustated because Codecademy wouldn't appect my syntax, but I'm pretty sure it was right...
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/828129464437575683
+
 ### Day 5: February 2nd, 2017 
 
 **Today's Progress**: I was introduced to objects today.
