@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: February 5th, 2017 
+
+**Today's Progress**: I made a contact list using Javascript and I was able to search for different names on the list.
+
+**Thoughts:** Javascript is frustating!! You have to have the syntax just perfect or it won't work. I also get confused when to use certain things. I still learning about objects and creating functions. I like challenges though and I won't give up until I figure this out.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/828340725951655940
+
 ### Day 6: February 4th, 2017 
 
 **Today's Progress**: I confinued to work on object constructor nontation.
