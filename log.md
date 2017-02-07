@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: February 6th, 2017 
+
+**Today's Progress**: I reviewed a lot of the basics of Javascript.
+
+**Thoughts:** It is hard for me to remember all of the syntaxs for the basic thinns in Javascript. I still have to do more practing! Also I have started to memorize the difference between literal notation and constructor notation for objects.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/828842433534390272
+https://twitter.com/SymoneAustin/status/828851506938048512
+
+
 ### Day 7: February 5th, 2017 
 
 **Today's Progress**: I made a contact list using Javascript and I was able to search for different names on the list.
