@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: February 7th, 2017 
+
+**Today's Progress**: I learned about methods in Javascript.
+
+**Thoughts:** I'm learning a lot of new things in Javascript. I can't wait to apply them to a real project. I just hope I don't forget everything when I do a project.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/829193015734521856
+
 ### Day 8: February 6th, 2017 
 
 **Today's Progress**: I reviewed a lot of the basics of Javascript.
