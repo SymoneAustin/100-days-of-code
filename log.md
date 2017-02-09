@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: February 8th, 2017 
+
+**Today's Progress**: I finished a course on Codecademy and now I'm 80% done with Javascript!
+
+**Thoughts:** It seemed like it took me forever to get through that last course. I've been working after midnight so I couldn't ask customer service for help. So all I had was Google (every coders best friend). I am learning alot I just want to make sure I remember everything. I guess I won't know if I'll remember until I work on an actual project. But I don't think I'm ready yet. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/829516868830498816
+https://twitter.com/SymoneAustin/status/829520542797557760
+
 ### Day 9: February 7th, 2017 
 
 **Today's Progress**: I learned about methods in Javascript.
