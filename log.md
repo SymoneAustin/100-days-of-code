@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: February 10th, 2017 
+
+**Today's Progress**: I built an address book with Javascript on Codecademy.
+
+**Thoughts:** The lesson was going smoothly until the last section. I felt like I was doing everything right but it wouldn't accept my answer. I couldn't figure out what was wrong. I brainstormed for 20 minutes trying to get it right. Eventually I realized what was wrong... I used equal signs instead of a colon. -_____________-
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/830298245356257281
+https://twitter.com/SymoneAustin/status/830298700664672256
+
 ### Day 10: February 8th, 2017 
 
 **Today's Progress**: I finished a course on Codecademy and now I'm 80% done with Javascript!
