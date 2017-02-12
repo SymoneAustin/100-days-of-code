@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 11th, 2017 
+
+**Today's Progress**: I continued my lesson on Javascript on Codecademy.
+
+**Thoughts:** I had an early morning and I long day but I spent a couple hours making some progress on the Javascript path. One of the things I learned is the way to find out if an object has a vaule ( obj.hasOwnProperty(prop) ). 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/830621307058454530
+
 ### Day 11: February 10th, 2017 
 
 **Today's Progress**: I built an address book with Javascript on Codecademy.
