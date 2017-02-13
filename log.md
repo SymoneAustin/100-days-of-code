@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 12th, 2017 
+
+**Today's Progress**: I learned about prototypes and inheritance in Javascript.
+
+**Thoughts:** Prototypes are used so multiple classes can have the same methods. The syntax looks like this: className.prototype.newMethod = function() {}; Inheritance is used so one class can have the same methods as another.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/831004567806554113
+
 ### Day 12: February 11th, 2017 
 
 **Today's Progress**: I continued my lesson on Javascript on Codecademy.
