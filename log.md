@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: February 13th, 2017 
+
+**Today's Progress**: I am 96% done with the Javascript course on Codecademy.
+
+**Thoughts:** I learned about public and private variables and methods. After I finished my lesson today, I completed two quizes that ut my knowledge of Javascript to the test. The first quiz had 15 questions and I only missed 1. The last quiz had 29 questions and I missed 4. This proves that I actually am learning this concepts and rules which is exciting!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/831382478409650176
+https://twitter.com/SymoneAustin/status/831388146394886144
+
 ### Day 13: February 12th, 2017 
 
 **Today's Progress**: I learned about prototypes and inheritance in Javascript.
