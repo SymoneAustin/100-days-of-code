@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 15: February 14th, 2017 
+
+**Today's Progress**: I am 100% done with the Javascript course on Codecademy.
+
+**Thoughts:** I feel so accomplished not that I finished the course. This last project only had 7 problems to solve but they didn't have detailed hints so it was really up to you to figure it out. It got harder as you progressed through the project (building a cash register) and I ended up having to use Google to figure out the last 3 problems. But I was proud of myself because I knew why the code wasn't working, I just didn't know the exact syntax. I am finally understanding the concepts I just need to practice more. I finished Codecademy so tomorrow I'm jumping over to Free Code Camp. Hopefully it's a smooth transition.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/831736094412636160
+https://twitter.com/SymoneAustin/status/831737294021390337
+
 ### Day 14: February 13th, 2017 
 
 **Today's Progress**: I am 96% done with the Javascript course on Codecademy.
