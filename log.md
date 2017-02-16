@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 15th, 2017 
+
+**Today's Progress**: I started the Front End Development Certification on Free Code Camp.
+
+**Thoughts:** I want to complete that certification, not by the end of the challenge but at some point in the future. I used FCC a few months back for school but I only did the basic Javascript part. I want to do the whole thing this time. Alot of it was review. The basic HTML & CSS section is supposed to take 5 hours, I'm halfway through after 1 hour whil watching tv. But I did learn some new elements like forms and inputs. I'm excited to see the difference between FCC and Codecademy.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/832088487134392320
+https://twitter.com/SymoneAustin/status/832089093156777984
+
 
 ### Day 15: February 14th, 2017 
 
