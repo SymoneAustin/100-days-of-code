@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 17: February 16th, 2017 
+
+**Today's Progress**: I finished the HTML5 & CSS section on Free Code Camp.
+
+**Thoughts:** I'm glad I revisited the basics of HTML and CSS. I needed the review. My brain has been so Javascript focused I needed the refresher. I also learned some new concepts. Like how browsers pay respond to the order of css styles. Browsers read from top to bottom, so how you write your CSS styles matters. If you give an element two color classes, it will show the last class that you wrote. The browser listens to ids over classes. Inline style changes top ids and classes. If you write !important next to a CSS style that tops everything. I start Bootstrap tomorrow which I'm super excited about because I plan to use it on my personal portfolio.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/832447437163859968
+
 ### Day 16: February 15th, 2017 
 
 **Today's Progress**: I started the Front End Development Certification on Free Code Camp.
