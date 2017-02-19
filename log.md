@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18&19: February 17th-18th, 2017 
+
+**Today's Progress**: I finished the Responsive Design with Bootstrap section on Free Code Camp.
+
+**Thoughts:** I'm sure using it in an actual project will be more complex but I really enjoyed using Bootstrap. I want to use it on my protfolio I am creating. I want the site to be parallax and I plan on using skrollr. I hope I can use skrollr and Bootstrap at the same time. We shall see! But for now i'll keep on practicing coding. I want to do this thing called flexbox froggy. It is a game that teaches you how to use flexbox.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/833164032278396929
 
 ### Day 17: February 16th, 2017 
 
