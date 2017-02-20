@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 19th, 2017 
+
+**Today's Progress**: I reviewed the flexbox method.
+
+**Thoughts:** I learned about flexbox in the fall and the concept was hard for me to grasp. I would basically just randomly choose diffent properties until something worked and it took me forever to do the simplest of things. Then I found out about this website called wwww.flexboxfroggy.com. It's a game where you have to place frogs on lilly pads using flexbox. It really explains the different properties used with display:flex and breaks it down for you. I was able to finish all 24 levels of the game. It was actually fun and now I feel more confident with flexbox. Thomas Park here on github made it. Thanks Thomas!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/833563918786248704
+
 ### Day 18&19: February 17th-18th, 2017 
 
 **Today's Progress**: I finished the Responsive Design with Bootstrap section on Free Code Camp.
