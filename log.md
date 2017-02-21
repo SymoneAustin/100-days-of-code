@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 20th, 2017 
+
+**Today's Progress**: I jumped over to jQuery.
+
+**Thoughts:** I went back to Codecademy to be introduced to jQuery. I went through the first course pretty quickly. It is like a shorter version of Javascript. The lesson said most people learn jQuery first and then move to Javascript, opps! But anyway I made a button that changed opactity as you hovered over it. It was actually pretty simple. I just have to get used to the syntax.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/833931216260771840
+
 ### Day 20: February 19th, 2017 
 
 **Today's Progress**: I reviewed the flexbox method.
