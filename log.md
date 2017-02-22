@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 21th, 2017 
+
+**Today's Progress**: I started building my online portfolio.
+
+**Thoughts:** I am building it from scratch and I am using Bootstrap to make it responsive. I got the opening screen done tonight. I just need to figure out how to change the color of the links in the navbar. I'm sure I just have to find the right class...
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/834293440527597568
+
 ### Day 21: February 20th, 2017 
 
 **Today's Progress**: I jumped over to jQuery.
