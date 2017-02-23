@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 22: February 21th, 2017 
+### Day 23: February 22nd, 2017 
+
+**Today's Progress**: I continued working on my portfolio.
+
+**Thoughts:** I finished building the home and about me screens. Bootstrap definitely has a learning curve. The concept is easy enough to understand but there are some many classes that you can use. It is hard to know all of them and it makes it frustrating when you know there is a way to do something, you just do know the correct class for it. Thank the good man upstairs for Google!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/834662648365072384
+
+### Day 22: February 21st, 2017 
 
 **Today's Progress**: I started building my online portfolio.
 
