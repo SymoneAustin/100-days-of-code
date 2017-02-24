@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 23rd, 2017 
+
+**Today's Progress**: I continued working on my portfolio.
+
+**Thoughts:** I finished building the skills section of my site. I think I am started to get the hang of Bootstrap. The hardest is just knowing which class is the best choice for your particular need. But I was able to get everything arranged the way I wanted it. I just need to work on the size of the text.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/834995663670816768
+
 ### Day 23: February 22nd, 2017 
 
 **Today's Progress**: I continued working on my portfolio.
