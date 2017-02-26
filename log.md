@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 23: February 23rd, 2017 
+### Day 26: February 25th, 2017 
+
+**Today's Progress**: I made the projects section of my portfolio.
+
+**Thoughts:** I can't believe how quickly I'm building my site. I think I am going to beat my schedule. Which is great because the sooner I finish it, the sooner I can show it to employeers. Bootstrap is getting easier and easier to use. The only catch is that I still don't know all of the classes. But that's what Google is for right?
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/835744092537630720
+
+### Day 25: February 24th, 2017 
+
+**Today's Progress**: I practiced more jQuery.
+
+**Thoughts:** I went back to Codecademy to practice jQuery. I am 16% done with the course. It isn't hard, I think because I did Javascript first so it makes it easier to understand.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/835384163633090560
+
+### Day 24: February 23rd, 2017 
 
 **Today's Progress**: I continued working on my portfolio.
 
