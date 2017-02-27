@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 26th, 2017 
+
+**Today's Progress**: I made the contact me section of my portfolio.
+
+**Thoughts:** It took a surprisingly long amount of time to stylize the form for my contact me section. A friend told me about a easy to use form so people can email you. It was easy to set up but to get it to look the way I wanted, took more time than I expected. I also created a footer for my site that has my social media links. I also put a copyright so people know I am the one who slaved over this lol. Tomorrow I am going to focus on creating the pages for each of my projects.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/836106791779991553
+
 ### Day 26: February 25th, 2017 
 
 **Today's Progress**: I made the projects section of my portfolio.
