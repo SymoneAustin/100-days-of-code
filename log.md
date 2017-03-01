@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 28 & 29: February 27th-28th, 2017 
+
+**Today's Progress**: I fixed responsive issues and made a smooth scroll on the header.
+
+**Thoughts:** I realized I was only halfway utilizing the Bootstrap grid system when I started building my portfolio. That is why some of my page wasn't responsive. With Bootstrap, you have to design with mobile first. So let's say you want three pictures to be in a row on a desktop but you want them stacked on a phone. Then you would use the classes .col-xs-12 .col-md-4. Always put the class for the smallest device first. Also notice I put "md" instead of "lg" for the second class. That is because Bootstrap know if you need it that way for "md" it will be the same for "lg". So put the smallest device and it will apply it to the bigger devices as well. 
+
+The smooth scroll was really easy to make. Bootstrap allows you to do it with a line of Javascript. Now when you click a link in the navbar, it scrolls down to the appropriate section. Nifty.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/836812283745611779
+
 ### Day 27: February 26th, 2017 
 
 **Today's Progress**: I made the contact me section of my portfolio.
