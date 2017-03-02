@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 30: March 1st, 2017 
+
+**Today's Progress**: I made the pages for each project.
+
+**Thoughts:** Most of the pages are for websites. One is for a video and one is for an app redesign. The video was the hardest to create. YouTube won't let you just copy the link, if you do it won't show on your site (which I had to learn the hard way). You have to use an iframe.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/837194704475271169
+
 ### Day 28 & 29: February 27th-28th, 2017 
 
 **Today's Progress**: I fixed responsive issues and made a smooth scroll on the header.
