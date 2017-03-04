@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 31 & 32: March 2nd - 3rd, 2017 
+
+**Today's Progress**: I made media queries. Lots of them.
+
+**Thoughts:** So I discovered that Bootstrap (a framework that is designed to make your website responsive) did not make it responsive. At least not good enough for my standards. There are multiple devices that need tweaking. I spent 5.5 hours straight yesterday building media queries, just to find that somehow they were affecting the desktop version! Today instead of going through all my code to find where I went wrong, I started over. So far the desktop version is right and so is an iPad in portrait or landscape view. Tomorrow I will focus on different versions of the iPhone.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/837668414319624193
+https://twitter.com/SymoneAustin/status/837927176766963712
+
 ### Day 30: March 1st, 2017 
 
 **Today's Progress**: I made the pages for each project.
