@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 39: March 13th, 2017 
+
+**Today's Progress**: Finished the 2nd front end dev project on FreeCodeCamp.
+
+**Thoughts:** This time I had to build a portfolio and it took me a little more time than the first project. But it was still relatively easy since I just spent the last few weeks working on my actual portfolio. The tricky part was getting used to the code pen platform. Many of my elements refused to center on the page. It took a while before I realized it was because the "col-xs-12" was useful in code pen. I had to change it to "col-lg-12". Also it was hard to determine the height of the div since it height of the window can constanly change on code pen.
+
+**Link to work:** 
+http://codepen.io/symone/pen/BWZbrG
+
+### Day 38: March 11th, 2017 
+
+**Today's Progress**: Back to Codecademy.
+
+**Thoughts:** I went back to working on my jQuery section on Codecademy. I am 25% done. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/840670469137321984
+
+### Day 37: March 10th, 2017 
+
+**Today's Progress**: I started and finished the 1st basic front end dev project.
+
+**Thoughts:** I must say it was pretty easy. I had to build a tribute page. Which was just h1, p, and ul tags. Then I styled it with some CSS and Bootstrap. But it's funny to think that 8 months ago I would have taken me forever to complete. 
+
+**Link to work:** 
+http://codepen.io/symone/pen/WpjrvG
+
+### Day 36: March 9th, 2017 
+
+**Today's Progress**: Back to Free Code Camp.
+
+**Thoughts:** I finished the jQuery section of FCC. Looking forward to moving to the basic front end dev projects. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/840076358147493896
+
+### Day 33-35: March 6th - 8th, 2017 
+
+**Today's Progress**: I finished my portfolio!
+
+**Thoughts:** I took a couple days off because I was going crazy from seeing media queries! But I am finally at a point where I am happy with my portfolio. I made it from scratch and I used Bootstrap as a framework. I'm proud of what I accomplished!
+
+**Link to work:** 
+http://symonea.com/
+
 ### Day 31 & 32: March 2nd - 3rd, 2017 
 
 **Today's Progress**: I made media queries. Lots of them.
