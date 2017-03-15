@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 40: March 14th, 2017 
+
+**Today's Progress**: Finished the 1st 36 lessons of basic javascript of FCC.
+
+**Thoughts:** I am redoing the basic javascript section on FCC. When I did it last semester I didn't understand everything and needed alot of help. I learned some new concepts after the section on Codecademy so I am hoping I can understand it better the second time around. I moved pretty quickly tonight but I got stuck on the "word blanks" section. I had to set a variable to a collection of strings to form a complete sentence. But I could not get it working so I went to the chat for help. They helped me figure it out (I forgot to put spaces before and after each string) but I didn't enjoy using the chat room. It was filled with men and I was the only woman. I just felt like they were judging me for not understanding. I hope this isn't a reflection of the entire industry.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/841855649784963072
+https://twitter.com/SymoneAustin/status/841858153323081728
+
 ### Day 39: March 13th, 2017 
 
 **Today's Progress**: Finished the 2nd front end dev project on FreeCodeCamp.
