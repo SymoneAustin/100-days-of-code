@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 42: March 156th, 2017 
+
+**Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
+
+**Thoughts:** I have 51 more lessons until I am finished with this section. Today was mainly focused on arrays. I got stuck on the "stand in line" lesson. I thought I was on the right track but my answer was still wrong. I found a forum to get some help. I realized that I was extremely close to the right answer! I just had one line of code that was redundant so it wouldn't work. This makes me feel good because it means that I am learning. My thought process was correct which is the important thing. I'm excited to keep going.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/842599141515509761
+
+### Day 41: March 15th, 2017 
+
+**Today's Progress**: Attended my first meetup.
+
+**Thoughts:** I went to a meetup to learn about Git and Github. I am so glad I went. It was my first time and I was slightly intimidated but it was actually really fun and people were nice. Plus, they had pizza! So, git is a type of version control system that you use through the terminal. There are 3 branches of Git: Working directory, staging area and the head. All your main files are in the working directory. When you make a change, they move to the staging area. When you are certain you like the change, you commit the file to the head and your changes appear in your file. The committed files are in the "master branch". The files you use for testing are in the "test" branch. Github is a platform for open source projects. You can upload a project to Github. Then someone can fork your project, clone it, and pull it down to their computer with the help of the terminal. They can make changes using Git, commit those changes in the terminal and they will be shown in their Github files. From there, they need to pull a request to the original creator of the project. Then the creator can decided if they want to use those changes.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/842214328493330432
+
 ### Day 40: March 14th, 2017 
 
 **Today's Progress**: Finished the 1st 36 lessons of basic javascript of FCC.
@@ -219,7 +237,7 @@ https://twitter.com/SymoneAustin/status/831004567806554113
 
 **Today's Progress**: I continued my lesson on Javascript on Codecademy.
 
-**Thoughts:** I had an early morning and I long day but I spent a couple hours making some progress on the Javascript path. One of the things I learned is the way to find out if an object has a vaule ( obj.hasOwnProperty(prop) ). 
+**Thoughts:** I had an early morning and a long day but I spent a couple hours making some progress on the Javascript path. One of the things I learned is the way to find out if an object has a vaule ( obj.hasOwnProperty(prop) ). 
 
 **Link to work:** 
 https://twitter.com/SymoneAustin/status/830621307058454530
