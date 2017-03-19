@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 42: March 156th, 2017 
+
+### Day 43: March 18th, 2017 
+
+**Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
+
+**Thoughts:** I traveled to Philly over the last 2 days so I missed yesterday. But I the hotel I managed to get an hour in. I just finished the Golf Code question. I am so happy because I remember doing that question last semester and I struggled. But this time I did it on the first try, it was so easy!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/843265768083066881
+
+### Day 42: March 16th, 2017 
 
 **Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
 
