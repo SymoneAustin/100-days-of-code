@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 44: March 19th, 2017 
+
+**Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
+
+**Thoughts:** I only have 23 questions left. I had one that gave me some issues today. It was the counting cards question. I had to write code for the game Blackjack. I figured out that I needed a switch to describe the values of all the cards. But then I wanted to do an if/else statement to say if the count is greater than 0, then say Bet. If it was 0 or less then say Hold. But it did not work completely. It didn't work for if the count was equal to 0. So I google and found another way that I don't completely understand. They used this... " return count + (count > 0 ? " Bet" : " Hold");" Now I need to figure out what a ternary operator is... 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/843692056967036928
 
 ### Day 43: March 18th, 2017 
 
