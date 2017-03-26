@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 45: March 25th, 2017 
+
+**Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
+
+**Thoughts:** I've been on Spring Break and that really messed up my productivity. I went to Philly and NYC and was just too busy during the day. But spring break is over now and I'm back! I continued working on freecodecamp and I only have 12 more lessons to do before I complete the basic javascript section. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/845864817990754304
+
 ### Day 44: March 19th, 2017 
 
 **Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
