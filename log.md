@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 46: March 27th, 2017 
+
+**Today's Progress**: Finished basic Javascript on FreeCodeCamp.
+
+**Thoughts:** I'm done! I am so happy that I understand Javascript more. I remember last semester when I struggled so much with this course. Now I flew by most of the problems. Only a few stumped me (50% of the time because I used a comma where it shouldn't be). Tonight the Profile Lookup question gave me trouble and I had to Google for help. I think the important part is I'm understanding the theory behind each problem. Even if I don't get the answer 100% on my own, I'm understanding the logic so I can do better the next time.  
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/846597025479245826
+
 ### Day 45: March 25th, 2017 
 
 **Today's Progress**: Worked on basic Javascript on FreeCodeCamp.
