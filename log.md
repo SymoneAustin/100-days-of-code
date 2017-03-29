@@ -2,6 +2,15 @@
 
 ### Day 46: March 27th, 2017 
 
+**Today's Progress**: Finished object oriented & functional programming on FreeCodeCamp.
+
+**Thoughts:** This section was pretty easy. I was able to do it in one night. I learned some new methods though. ".join" lets you combine all of the elements in an array into a single string. ".split " divides a string into an array. ".concat" merges 2 arrays into one. ".reverse" reverses the order of an array. ".sort" sorts the elements in an array alphabetically or numerically. ".filter" filters out certain elements in an array that are not true according to a given condition. ".reduce"  goes through an array and condenses it into one value. ".map" goes through an array and can create a new array based off your callback function. This was a lot of new information. I understood it as I was going through the lesson, I just hope I can retain everything. Tomorrow I start the algorithm challenges. I am excited to put my new skills to the test.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/846959070284337153
+
+### Day 46: March 27th, 2017 
+
 **Today's Progress**: Finished basic Javascript on FreeCodeCamp.
 
 **Thoughts:** I'm done! I am so happy that I understand Javascript more. I remember last semester when I struggled so much with this course. Now I flew by most of the problems. Only a few stumped me (50% of the time because I used a comma where it shouldn't be). Tonight the Profile Lookup question gave me trouble and I had to Google for help. I think the important part is I'm understanding the theory behind each problem. Even if I don't get the answer 100% on my own, I'm understanding the logic so I can do better the next time.  
