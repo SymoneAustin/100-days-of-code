@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 46: March 27th, 2017 
+### Day 49: March 30th, 2017 
+
+**Today's Progress**: Jumped back to jQuery on Codecademy.
+
+**Thoughts:** Taking a mental break from FreeCodeCamp and switched to jQuery on Codecademy. The lesson was pretty easy. I learned about different event handlers in jQuery (.click(), .dblclick(), .hover(), .keydown()) and how to use them to get make things move. I can see myself using it for projects.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/847676766772535301
+
+### Day 48: March 29th, 2017 
+
+**Today's Progress**: Started the algorithm challenges on FreeCodeCamp.
+
+**Thoughts:** Whoa. So I only did two of them. The first one I am proud to say I figured out on my own. I reversed a string. Yay me lol! The second was to factorialize a number. That one was more tricky. I had to use the read,search,ask method to figure it out. Completeing these basic algorithms is probably going to be the most difficult coding I've had to do thus far. But I'm excited to learn!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/847318330788556801
+
+### Day 47: March 28th, 2017 
 
 **Today's Progress**: Finished object oriented & functional programming on FreeCodeCamp.
 
