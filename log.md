@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 50: April 2nd, 2017 
+
+**Today's Progress**: Completed 3 algorithm problems on FreeCodeCamp.
+
+**Thoughts:** I checked for Palindromes (words that are spelled the same forwards or backwards, i.e. "racecar"), found the longest word in a string, and capitalized every word in a string. What I am finding is that there are multiple ways to solve every problem. I needed help to complete the problems. I am starting to understand the flow of Javascript, it's really just a logic game. The more problems I do the better I will get. I realized I like thinking of solutions that involve a for loop or if/else statements. Hopefully I will be able to finish a problem by myself soon. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/848760740571906048
+
 ### Day 49: March 30th, 2017 
 
 **Today's Progress**: Jumped back to jQuery on Codecademy.
