@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 51: April 4th, 2017 
+
+**Today's Progress**: Completed 3 more algorithm problems on FreeCodeCamp.
+
+**Thoughts:** I returned the largest number in each sub array of an array, confirmed if the last letter in a string was the same as a different argument, and repeated a string as many times determined by the argument "num". For the first problem, i used a for loop (arrayIndex) inside another for loop (subArrayIndex). Then I had an if statement saying if the sub array is bigger than the other numbers in the sub array. Then the second problem. I used the str.substr(-target.length) property checked to see if it was equal to the target.  For the last problem I used an if/if/else statement (the num had to be positive) and the .repeat() property. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/849407036727205888
+
 ### Day 50: April 2nd, 2017 
 
 **Today's Progress**: Completed 3 algorithm problems on FreeCodeCamp.
