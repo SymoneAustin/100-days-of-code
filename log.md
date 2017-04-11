@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 54: April 10th, 2017 
+
+**Today's Progress**: Completed more algorithm problems on FreeCodeCamp.
+
+**Thoughts:** I was asked to truncate a string and add "..." to the end. I truncated based off of a number and the ... added to the length of the string if the number was more than 3. I used an if/else statement and the .slice() property. That wasn't hard. Then I had to split an array into groups and form a new array from those groups. This was tricker. I had to created a new variable for the new array first. Then I used a while loop. I said while the length of the array is more than 0, splice the array based off the size and then push out the new array and return it.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/851678097036464128
+
+### Day 52-53: April 5th -6th, 2017 
+
+**Today's Progress**: Working on these media queries for my website.
+
+**Thoughts:** It seems like I will never be done with these portfolio. I keep having to fix little issues.
+
+**Link to work:** 
+www.symonea.com
+
 ### Day 51: April 4th, 2017 
 
 **Today's Progress**: Completed 3 more algorithm problems on FreeCodeCamp.
