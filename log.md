@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 56: April 12th, 2017 
+
+**Today's Progress**: Made a meme generator on codecademy.
+
+**Thoughts:** I learned some more things in jQuery. jQuery is actually really easy so far and you can do some cool things. My favorite thing I learned today was .draggable() so I could drag things on the page. I also styled a menu with .accordian(). The project I worked on to create a meme generator. The hardest part was to place the image. I didn't understand the wording of the instructions. But I figured it out!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/852382462969860100
+
+### Day 55: April 11th, 2017 
+
+**Today's Progress**: I finished the basic algorithms on freecodecamp!!!!!!!
+
+**Thoughts:** I FINALLY finished. I am so glad to be done lol. They got harder and harder (which is probably on purpose). The last one was some type of code that you had to figure out. The letters were all scrambled and the trick was you had to move 13 spaces down the alphabet to find the actual letter.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/852019433853681664
+
 ### Day 54: April 10th, 2017 
 
 **Today's Progress**: Completed more algorithm problems on FreeCodeCamp.
