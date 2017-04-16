@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 57: April 15th, 2017 
+
+**Today's Progress**: Started a Meteor project.
+
+**Thoughts:** I have been using Meteor in class, but tonight I made my first project by myself. Everything was going smoothly until I tried to make a twitter login. I forgot there are multiple things I need to put into the terminal. I need to check out accounts-ui on atmospherejs.com if I ever get stuck again. But now things are working. I'm excited to work on it more tomorrow because my app is about Beyonce songs. I think I am going to make it so when you sign in you can record how many times you have listened to a certain song.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/853483698485956608
+
 ### Day 56: April 12th, 2017 
 
 **Today's Progress**: Made a meme generator on codecademy.
