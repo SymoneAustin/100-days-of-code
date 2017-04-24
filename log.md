@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 60: April 23th, 2017 
+
+**Today's Progress**: Started Child Theme.
+
+**Thoughts:** For my capstone, I am using wordpress to create a website for alzheimer's care givers. I built the child theme today. Wordpress has a serious learning curve. I just spent 2 hours trying to figure out how to make my post take up the full width of the page. I am going to bed because it is 3:40 am and I am tired. Better luck tomorrow. I have a domain for the site so be sure to check out my progress.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/856410849807933441
+http://caring.symonea.com/
+
+### Day 59: April 17th, 2017 
+
+**Today's Progress**: Started Random Quote Generator.
+
+**Thoughts:** In free code camp, i started to make the quote generator on code pen. I am focusing on the html and css first. I have alot going on right now and I don't have alot of time to figure this out. I will work on it bit by bit. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/854211337941123072
+
+### Day 58: April 16th, 2017 
+
+**Today's Progress**: Continued my Meteor project.
+
+**Thoughts:** So I changed the functionality. I made it so that when you sign in you can vote for your favorite album. But you can't see the amount of votes or vote until you sign in. I had to get help from my professor. At first, I created the database in the main.js file and that resulted in when you logged out it cleared out the amount of votes. By creating the database in the terminal with mongo db, this was fixed. 
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/853838423559372801
+
 ### Day 57: April 15th, 2017 
 
 **Today's Progress**: Started a Meteor project.
