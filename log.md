@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 61: April 24th, 2017 
+
+**Today's Progress**: Added Capstone Section.
+
+**Thoughts:** I added the capstone section to my portfolio. This section is different from the rest because I also showed my thought process for my capstone. I added the persona, mood board, wireframes, and prototype.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/856745972680073217
+http://symonea.com/
+
 ### Day 60: April 23th, 2017 
 
 **Today's Progress**: Started Child Theme.
