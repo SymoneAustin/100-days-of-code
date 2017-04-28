@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 63: April 27th, 2017 
+
+**Today's Progress**: Started Meteor.js project.
+
+**Thoughts:** For my app development class, we have a final project. I want to use Meteor.js but it took me a long time to settle on an idea. At first I thought I would make a forum but the best tutorial I could find involved AngularJS. This caused issues. My project wouldn't even run. So I searched for more ideas and I found a tutorial for creating a cms-powered blog. I think this could work. I will continue working on this for the next couple of weeks.
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/857823795507335168
+
+### Day 62: April 25th, 2017 
+
+**Today's Progress**: Started Capstone Exhibition Website.
+
+**Thoughts:** For my program we have to plan the exhibition for our capstone projects. I am on the web development team and I am also the leader. Tonight I just made the boilerplate for the site but I want to use git and github with the site to get better experience. I have used git before but I had to remind myself of the syntax. I made a couple mistakes but I got it working!
+
+**Link to work:** 
+https://twitter.com/SymoneAustin/status/857134207935672321
+
 ### Day 61: April 24th, 2017 
 
 **Today's Progress**: Added Capstone Section.
